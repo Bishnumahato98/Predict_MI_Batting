@@ -1,0 +1,8 @@
+batter,batting_pos,avg_runs_last5,avg_sr_last5,prediction,prob_low,prob_medium,prob_high
+RG Sharma,1,29.2,124.49,MEDIUM,5.0,92.5,2.4
+Ishan Kishan,2,21.6,135.66,MEDIUM,10.3,88.0,1.7
+SA Yadav,3,21.6,147.86,MEDIUM,8.9,88.8,2.3
+TH David,4,19.8,118.42,MEDIUM,20.6,78.6,0.7
+HH Pandya,5,22.0,131.58,MEDIUM,8.9,89.9,1.2
+KH Pandya,6,8.6,94.8,LOW,98.9,1.1,0.0
+TL Seifert,7,20.0,120.0,MEDIUM,25.0,73.7,1.2

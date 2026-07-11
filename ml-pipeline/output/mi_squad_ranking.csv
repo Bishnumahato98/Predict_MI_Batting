@@ -1,0 +1,17 @@
+name,role,batting_pos,prediction,prob_high,prob_medium,prob_low,avg_runs_last5,avg_sr_last5,home_avg,matches,fifties,composite_score
+RG Sharma,BAT,1,MEDIUM,2.4,92.5,5.0,29.2,124.49,29.57,232,43,57.96
+SA Yadav,BAT,3,MEDIUM,2.3,88.8,8.9,21.6,147.86,35.05,123,32,56.18
+Ishan Kishan,WK,2,MEDIUM,1.7,88.0,10.3,21.6,135.66,23.93,84,15,52.15
+HH Pandya,ALLR,5,MEDIUM,1.2,89.9,8.9,22.0,131.58,17.41,123,4,48.13
+TH David,BAT,4,MEDIUM,0.7,78.6,20.6,19.8,118.42,25.0,34,0,43.52
+Naman Dhir,ALLR,6,LOW,0.3,26.9,72.8,17.0,121.71,15.44,33,3,30.15
+RD Gaikwad,BAT,3,LOW,0.0,17.6,82.4,0.0,0.0,0.0,0,0,30.0
+TL Seifert,WK,7,LOW,0.3,16.1,83.5,0.0,0.0,0.0,0,0,30.0
+Nuwan Thushara,BOWL,11,LOW,0.3,14.8,84.9,0.0,0.0,0.0,0,0,30.0
+Shubman Gill,BAT,1,LOW,0.0,17.5,82.5,0.0,0.0,0.0,0,0,30.0
+Romario Shepherd,ALLR,8,LOW,0.3,15.5,84.2,0.0,0.0,0.0,0,0,30.0
+KH Pandya,ALLR,6,LOW,0.0,1.1,98.9,8.6,94.8,18.05,69,1,23.11
+N Wadhera,BAT,4,LOW,0.0,2.6,97.4,12.0,100.02,13.33,16,2,18.95
+JJ Bumrah,BOWL,10,LOW,0.0,0.1,99.9,2.0,118.0,3.67,29,0,8.33
+Mohammad Nabi,ALLR,7,LOW,0.0,0.8,99.2,7.0,83.49,4.0,5,0,7.57
+Akash Madhwal,BOWL,11,LOW,0.0,0.7,99.3,4.0,80.0,4.0,1,0,4.34
